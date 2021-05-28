@@ -1,0 +1,23 @@
+/**/
+
+button{
+  margin-top: 20px;
+  width: 100%;
+}
+
+.imagem{
+  height: 400px;
+  width: 100%;
+}
+
+h2{
+  text-align: center;
+}
+
+body{
+  background-color: blueviolet;
+  border-radius: 20px;
+  border-color: black;
+  border-width: 20px;
+}
+
